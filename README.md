@@ -1,7 +1,7 @@
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 💫 Hi 👋, I'm Imran Alam
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 💫 Hi 👋, I'm Priyanshu Tripathi
 **A passionate Web Developer || Priyanshu Tripathi from India**
 
-Email Me 👉 ✉️ **vibecoder144@gmai.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vibecoder144@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** my basics.
 - 🌱 **I’m currently learning:** Data Science
