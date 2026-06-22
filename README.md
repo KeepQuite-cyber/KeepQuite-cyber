@@ -5,7 +5,7 @@
 Email Me 👉 ✉️ **vibecoder144@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** my basics.
-- 🌱 **I’m currently learning:** Data Science
+- 🌱 **I’m currently learning:** Agentic AI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vibecoder144@gmail.com
 - 😄 **Pronouns:** Priyanshu Tripathi
